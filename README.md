@@ -7,7 +7,6 @@ Eventify is designed with smooth UI animations, elegant typography, and clean la
 
 ## 🚀 Live Demo
 👉 https://your-live-link.netlify.app  
-*(Replace with your deployed link)*
 
 ---
 
