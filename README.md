@@ -1,70 +1,106 @@
-# Getting Started with Create React App
+# 🎉 Eventify – Event Landing Page
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive, and professional **event landing page** built to showcase events, attract users, and drive registrations.  
+Eventify is designed with smooth UI animations, elegant typography, and clean layouts suitable for tech events, workshops, college fests, and corporate meetups.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
+👉 https://your-live-link.netlify.app  
+*(Replace with your deployed link)*
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Features
+- ✨ Modern & professional UI design  
+- 🎨 Smooth pastel gradients and hover animations  
+- 📱 Fully responsive (Mobile, Tablet, Desktop)  
+- 🧭 Clean navigation bar with hover effects  
+- 🖼️ Elegant hero section with image animation  
+- 📢 Call-To-Action (CTA) section for registrations  
+- 🦶 Minimal and professional footer  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Framework / Library:** React.js  
+- **Styling:** Bootstrap + Custom CSS  
+- **Fonts:** Google Fonts (Alex Brush)  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 📂 Project Structure
+```text
+Eventify/
+|──public/
+│── src/
+│   ├── components/
+│   ├── App.jsx
+│   ├── App.css
+│   └── index.js
+│── package.json
+│── README.md
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Installation & Setup
+### 1️⃣ Clone the repository
+```text
+git clone https://github.com/your-username/eventify.git
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+### 2️⃣ Navigate to project folder
+```
+cd eventify
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### 3️⃣ Install dependencies
+```
+npm install
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 4️⃣Run the project
+```
+npm start
+```
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### The Application will run on :
+👉 http://localhost:3000/
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+### 🎯 Use Cases
+- College technical & cultural events
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- Workshops & webinars
 
-### Analyzing the Bundle Size
+- Hackathons & conferences
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Corporate or startup events
 
-### Making a Progressive Web App
+  ---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Scrreenshots
+### Home
+<img width="1899" height="924" alt="image" src="https://github.com/user-attachments/assets/4527bffb-834a-43ef-b11c-4259db117c99" />
 
-### Advanced Configuration
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### About, Reviews and Contact
+<img width="1902" height="928" alt="image" src="https://github.com/user-attachments/assets/387dc7d6-6e2b-4746-b33c-20364f815ea5" />
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  ## Author
+  ### Jayabharathi S
+  #### ⭐ If you like this project, don’t forget to star the repository!
