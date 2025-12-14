@@ -23,7 +23,7 @@ Eventify is designed with smooth UI animations, elegant typography, and clean la
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Framework / Library:** React.js  
+- **Library:** React.js  
 - **Styling:** Bootstrap + Custom CSS  
 - **Fonts:** Google Fonts (Alex Brush)  
 
