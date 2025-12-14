@@ -15,8 +15,7 @@ Eventify is designed with smooth UI animations, elegant typography, and clean la
 - 🎨 Smooth pastel gradients and hover animations  
 - 📱 Fully responsive (Mobile, Tablet, Desktop)  
 - 🧭 Clean navigation bar with hover effects  
-- 🖼️ Elegant hero section with image animation  
-- 📢 Call-To-Action (CTA) section for registrations  
+- 🖼️ Elegant hero section with image animation   
 - 🦶 Minimal and professional footer  
 
 ---
@@ -35,6 +34,11 @@ Eventify/
 |──public/
 │── src/
 │   ├── components/
+         |── Navbar.jsx
+         |── Hero.jsx
+         |── About.jsx
+         |── Reviews.jsx
+         |── Footer.jsx
 │   ├── App.jsx
 │   ├── App.css
 │   └── index.js
